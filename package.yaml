@@ -8,9 +8,13 @@ author:
   name: Alex Kocharin
   email: alex@kocharin.ru
 
+maintainers: 
+  name": LamHo
+  email": linhao.4zhong@163.com
+
 repository:
   type: git
-  url: git://github.com/rlidwka/sinopia
+  url: git://github.com/LLLLLamHo/sinopia
 
 main: index.js
 
